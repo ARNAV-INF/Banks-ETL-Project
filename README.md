@@ -7,7 +7,7 @@ market capitalization into multiple currencies, and loads it into
 both a CSV file and a SQLite database.
 
 ## Built As Part Of
-Data Engineering Foundations — Coursera
+Built as part of the [IBM Data Engineering Foundations Specialization](https://www.coursera.org/specializations/data-engineering-foundations) — IBM × Coursera
 
 ## Features
 - Extracts real world banking data from Wikipedia using web scraping
